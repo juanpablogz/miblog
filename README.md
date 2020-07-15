@@ -1,7 +1,6 @@
 # firebase-nuxt
 
-> My pioneering Nuxt.js project
-
+> mi blog personal 
 ## Build Setup
 
 ``` bash
